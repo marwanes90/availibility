@@ -142,7 +142,8 @@
                         "id": "57312000000Gpaa"
                     },
                     {
-                        "id": "57312000000Gpaf"
+                        "id": "57312000000Gpaf",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpak"
@@ -274,7 +275,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNea"
+                        "id": "57312000000TNea",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNef"
@@ -327,7 +329,8 @@
                         "id": "573A000000004wL"
                     },
                     {
-                        "id": "573A000000005CR"
+                        "id": "573A000000005CR",
+                        "isAvailable": true
                     },
                     {
                         "id": "573A000000005CW",
