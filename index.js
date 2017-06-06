@@ -60,11 +60,26 @@ function getFileNames() {
       if(newmap[id].length===0)      
         newmap[id].push({"starttime":mymap[id][0].timenow,"endtime":mymap[id][mymap[id].length -1 ].timenow,"isAvailable":initial.isAvailable});               
     });
-   // return newmap;
-    console.log(fs.writeFile('result.json',JSON.stringify(newmap,null,2),function(err){console.log(err)}));
+   
+   // console.log(fs.writeFile('result.json',JSON.stringify(newmap,null,2),function(err){console.log(err)}));
+    return newmap;
   })  
-
-
+  .then((newmap)=>{
+    var filecontent = [];
+    var buttonids = Object.keys(newmap);
+    buttonids.forEach(buttonid=>{
+      var buttoncontent = [];
+      var header= ["ButtonID","StartTimeOfChange","EndTimeOfChange","IsAvailable"];      
+      newmap[buttonid].forEach(row=>{
+       buttoncontent = [buttonid,row.starttime,row.endtime,row.isAvailable];
+      });
+      filecontent.push(buttoncontent.header.join(','));
+      //console.log(buttoncontent);
+    });
+  // console.log(fs.writeFile('result.csv',filecontent.join('\n'),function(err){console.log(err)}));
+    console.log(filecontent);
+  });
+  
   });
 }
 
