@@ -54,8 +54,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Cbe4",
-                        "isAvailable": true
+                        "id": "57312000000Cbe4"
                     },
                     {
                         "id": "57312000000Cbe9",
@@ -73,7 +72,8 @@
                         "id": "57312000000CbeT"
                     },
                     {
-                        "id": "57312000000GpZ3"
+                        "id": "57312000000GpZ3",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000GpZ8"
