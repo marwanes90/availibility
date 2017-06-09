@@ -294,7 +294,8 @@
                         "id": "573120000008Snc"
                     },
                     {
-                        "id": "573120000008Snh"
+                        "id": "573120000008Snh",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Snm",
@@ -305,7 +306,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Snw"
+                        "id": "573120000008Snw",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008So6"
