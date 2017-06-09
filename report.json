@@ -886,10 +886,12 @@
                         "id": "57312000000Gpbx"
                     },
                     {
-                        "id": "57312000000Gpc2"
+                        "id": "57312000000Gpc2",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpc7"
+                        "id": "57312000000Gpc7",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000GpcH"
@@ -1134,10 +1136,12 @@
                         "id": "57312000000TNdm"
                     },
                     {
-                        "id": "57312000000TNdr"
+                        "id": "57312000000TNdr",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNdw"
+                        "id": "57312000000TNdw",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNe1",
@@ -1148,7 +1152,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNeB"
+                        "id": "57312000000TNeB",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNeG"
