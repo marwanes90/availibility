@@ -1245,8 +1245,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNep",
-                        "isAvailable": true
+                        "id": "57312000000TNep"
                     },
                     {
                         "id": "57312000000TNeu",
@@ -1313,7 +1312,8 @@
                         "id": "573A000000005Cq"
                     },
                     {
-                        "id": "573A000000005Cv"
+                        "id": "573A000000005Cv",
+                        "isAvailable": true
                     },
                     {
                         "id": "573A000000005D0"
