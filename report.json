@@ -657,8 +657,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Swe",
-                        "isAvailable": true
+                        "id": "573120000008Swe"
                     },
                     {
                         "id": "573120000008Swj"
@@ -753,7 +752,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Syp"
+                        "id": "573120000008Syp",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syu",
@@ -1012,7 +1012,8 @@
                         "id": "57312000000GpeX"
                     },
                     {
-                        "id": "57312000000Gpec"
+                        "id": "57312000000Gpec",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpeh",
