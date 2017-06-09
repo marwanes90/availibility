@@ -733,8 +733,7 @@
                         "id": "573120000008Syk"
                     },
                     {
-                        "id": "573120000008Syp",
-                        "isAvailable": true
+                        "id": "573120000008Syp"
                     },
                     {
                         "id": "573120000008Syu",
@@ -890,10 +889,12 @@
                         "id": "57312000000Gpbx"
                     },
                     {
-                        "id": "57312000000Gpc2"
+                        "id": "57312000000Gpc2",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpc7"
+                        "id": "57312000000Gpc7",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000GpcH"
@@ -993,8 +994,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpec",
-                        "isAvailable": true
+                        "id": "57312000000Gpec"
                     },
                     {
                         "id": "57312000000Gpeh",
@@ -1143,13 +1143,16 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNdw"
+                        "id": "57312000000TNdw",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNe1"
+                        "id": "57312000000TNe1",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNe6"
+                        "id": "57312000000TNe6",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNeB",
@@ -1159,10 +1162,12 @@
                         "id": "57312000000TNeG"
                     },
                     {
-                        "id": "57312000000TNeL"
+                        "id": "57312000000TNeL",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNeQ"
+                        "id": "57312000000TNeQ",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNea",
@@ -1172,7 +1177,8 @@
                         "id": "57312000000TNef"
                     },
                     {
-                        "id": "57312000000TNek"
+                        "id": "57312000000TNek",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNep"
