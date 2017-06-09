@@ -1,0 +1,203 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'promise' ]
+2 info using npm@3.10.10
+3 info using node@v6.10.0
+4 verbose config Skipping project config: C:\Users\SESA454602/.npmrc. (matches userconfig)
+5 silly loadCurrentTree Starting
+6 silly install loadCurrentTree
+7 silly install readLocalPackageData
+8 silly fetchPackageMetaData promise
+9 silly fetchNamedPackageData promise
+10 silly mapToRegistry name promise
+11 silly mapToRegistry using default registry
+12 silly mapToRegistry registry http://registry.npmjs.org/
+13 silly mapToRegistry data Result {
+13 silly mapToRegistry   raw: 'promise',
+13 silly mapToRegistry   scope: null,
+13 silly mapToRegistry   escapedName: 'promise',
+13 silly mapToRegistry   name: 'promise',
+13 silly mapToRegistry   rawSpec: '',
+13 silly mapToRegistry   spec: 'latest',
+13 silly mapToRegistry   type: 'tag' }
+14 silly mapToRegistry uri http://registry.npmjs.org/promise
+15 verbose request uri http://registry.npmjs.org/promise
+16 verbose request no auth needed
+17 info attempt registry request try #1 at 16:02:46
+18 verbose request id 64273ad9b4da2e84
+19 http request GET http://registry.npmjs.org/promise
+20 http 200 http://registry.npmjs.org/promise
+21 verbose bad json function FindProxyForURL(url, host) {
+21 verbose bad json             var privateIP = /^(0|10|127|192\.168|172\.1[6789]|172\.2[0-9]|172\.3[01]|169\.254|192\.88\.99)\.[0-9.]+$/;
+21 verbose bad json             var resolved_ip = dnsResolve(host);
+21 verbose bad json
+21 verbose bad json             /* Don't send non-FQDN or private IP auths to us */
+21 verbose bad json             if (isPlainHostName(host) || isInNet(resolved_ip, "192.0.2.0","255.255.255.0") || privateIP.test(resolved_ip))
+21 verbose bad json             return "DIRECT";
+21 verbose bad json
+21 verbose bad json             /* FTP goes directly */
+21 verbose bad json             if (url.substring(0,4) == "ftp:")
+21 verbose bad json             return "DIRECT";
+21 verbose bad json
+21 verbose bad json             /* Updates are directly accessible */
+21 verbose bad json             if (((localHostOrDomainIs(host, "trust.zscaler.com")) ||
+21 verbose bad json                     (localHostOrDomainIs(host, "trust.zscaler.net")) ||
+21 verbose bad json                     (localHostOrDomainIs(host, "trust.zscalerone.net")) ||
+21 verbose bad json                     (localHostOrDomainIs(host, "trust.zscalertwo.net")) ||
+21 verbose bad json                     (localHostOrDomainIs(host, "trust.zscloud.net")) ) &&
+21 verbose bad json                 (url.substring(0,5) == "http:" || url.substring(0,6) == "https:"))
+21 verbose bad json             return "DIRECT";
+21 verbose bad json
+21 verbose bad json             /* Default Traffic Forwarding. Forwarding to Zen on port 80, but you can use port 9400 also */
+21 verbose bad json              return "PROXY 165.225.76.40:80; PROXY 185.46.214.32:80; DIRECT";
+21 verbose bad json         }
+22 error registry error parsing json
+23 verbose headers { 'content-type': 'application/x-ns-proxy-autoconfig',
+23 verbose headers   connection: 'close' }
+24 silly get cb [ 200,
+24 silly get   { 'content-type': 'application/x-ns-proxy-autoconfig',
+24 silly get     connection: 'close' } ]
+25 silly fetchPackageMetaData SyntaxError: Unexpected token u in JSON at position 1
+25 silly fetchPackageMetaData function FindProxyForURL(url, host) {
+25 silly fetchPackageMetaData             var privateIP = /^(0|10|127|192\.168|172\.1[6789]|172\.2[0-9]|172\.3[01]|169\.254|192\.88\.99)\.[0-9.]+$/;
+25 silly fetchPackageMetaData             var resolved_ip = dnsResolve(host);
+25 silly fetchPackageMetaData
+25 silly fetchPackageMetaData             /* Don't send non-FQDN or private IP auths to us */
+25 silly fetchPackageMetaData             if (isPlainHostName(host) || isInNet(resolved_ip, "192.0.2.0","255.255.255.0") || privateIP.test(resolved_ip))
+25 silly fetchPackageMetaData             return "DIRECT";
+25 silly fetchPackageMetaData
+25 silly fetchPackageMetaData             /* FTP goes directly */
+25 silly fetchPackageMetaData             if (url.substring(0,4) == "ftp:")
+25 silly fetchPackageMetaData             return "DIRECT";
+25 silly fetchPackageMetaData
+25 silly fetchPackageMetaData             /* Updates are directly accessible */
+25 silly fetchPackageMetaData             if (((localHostOrDomainIs(host, "trust.zscaler.com")) ||
+25 silly fetchPackageMetaData                     (localHostOrDomainIs(host, "trust.zscaler.net")) ||
+25 silly fetchPackageMetaData                     (localHostOrDomainIs(host, "trust.zscalerone.net")) ||
+25 silly fetchPackageMetaData                     (localHostOrDomainIs(host, "trust.zscalertwo.net")) ||
+25 silly fetchPackageMetaData                     (localHostOrDomainIs(host, "trust.zscloud.net")) ) &&
+25 silly fetchPackageMetaData                 (url.substring(0,5) == "http:" || url.substring(0,6) == "https:"))
+25 silly fetchPackageMetaData             return "DIRECT";
+25 silly fetchPackageMetaData
+25 silly fetchPackageMetaData             /* Default Traffic Forwarding. Forwarding to Zen on port 80, but you can use port 9400 also */
+25 silly fetchPackageMetaData              return "PROXY 165.225.76.40:80; PROXY 185.46.214.32:80; DIRECT";
+25 silly fetchPackageMetaData         }
+25 silly fetchPackageMetaData     at Object.parse (native)
+25 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:237:23)
+25 silly fetchPackageMetaData     at Request._callback (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:210:14)
+25 silly fetchPackageMetaData     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:187:22)
+25 silly fetchPackageMetaData     at emitTwo (events.js:106:13)
+25 silly fetchPackageMetaData     at Request.emit (events.js:191:7)
+25 silly fetchPackageMetaData     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1048:10)
+25 silly fetchPackageMetaData     at emitOne (events.js:96:13)
+25 silly fetchPackageMetaData     at Request.emit (events.js:188:7)
+25 silly fetchPackageMetaData     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:969:12)
+25 silly fetchPackageMetaData  error for promise SyntaxError: Unexpected token u in JSON at position 1
+25 silly fetchPackageMetaData function FindProxyForURL(url, host) {
+25 silly fetchPackageMetaData             var privateIP = /^(0|10|127|192\.168|172\.1[6789]|172\.2[0-9]|172\.3[01]|169\.254|192\.88\.99)\.[0-9.]+$/;
+25 silly fetchPackageMetaData             var resolved_ip = dnsResolve(host);
+25 silly fetchPackageMetaData
+25 silly fetchPackageMetaData             /* Don't send non-FQDN or private IP auths to us */
+25 silly fetchPackageMetaData             if (isPlainHostName(host) || isInNet(resolved_ip, "192.0.2.0","255.255.255.0") || privateIP.test(resolved_ip))
+25 silly fetchPackageMetaData             return "DIRECT";
+25 silly fetchPackageMetaData
+25 silly fetchPackageMetaData             /* FTP goes directly */
+25 silly fetchPackageMetaData             if (url.substring(0,4) == "ftp:")
+25 silly fetchPackageMetaData             return "DIRECT";
+25 silly fetchPackageMetaData
+25 silly fetchPackageMetaData             /* Updates are directly accessible */
+25 silly fetchPackageMetaData             if (((localHostOrDomainIs(host, "trust.zscaler.com")) ||
+25 silly fetchPackageMetaData                     (localHostOrDomainIs(host, "trust.zscaler.net")) ||
+25 silly fetchPackageMetaData                     (localHostOrDomainIs(host, "trust.zscalerone.net")) ||
+25 silly fetchPackageMetaData                     (localHostOrDomainIs(host, "trust.zscalertwo.net")) ||
+25 silly fetchPackageMetaData                     (localHostOrDomainIs(host, "trust.zscloud.net")) ) &&
+25 silly fetchPackageMetaData                 (url.substring(0,5) == "http:" || url.substring(0,6) == "https:"))
+25 silly fetchPackageMetaData             return "DIRECT";
+25 silly fetchPackageMetaData
+25 silly fetchPackageMetaData             /* Default Traffic Forwarding. Forwarding to Zen on port 80, but you can use port 9400 also */
+25 silly fetchPackageMetaData              return "PROXY 165.225.76.40:80; PROXY 185.46.214.32:80; DIRECT";
+25 silly fetchPackageMetaData         }
+25 silly fetchPackageMetaData     at Object.parse (native)
+25 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:237:23)
+25 silly fetchPackageMetaData     at Request._callback (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:210:14)
+25 silly fetchPackageMetaData     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:187:22)
+25 silly fetchPackageMetaData     at emitTwo (events.js:106:13)
+25 silly fetchPackageMetaData     at Request.emit (events.js:191:7)
+25 silly fetchPackageMetaData     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1048:10)
+25 silly fetchPackageMetaData     at emitOne (events.js:96:13)
+25 silly fetchPackageMetaData     at Request.emit (events.js:188:7)
+25 silly fetchPackageMetaData     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:969:12)
+26 silly rollbackFailedOptional Starting
+27 silly rollbackFailedOptional Finishing
+28 silly runTopLevelLifecycles Finishing
+29 silly install printInstalled
+30 verbose stack SyntaxError: Unexpected token u in JSON at position 1
+30 verbose stack function FindProxyForURL(url, host) {
+30 verbose stack             var privateIP = /^(0|10|127|192\.168|172\.1[6789]|172\.2[0-9]|172\.3[01]|169\.254|192\.88\.99)\.[0-9.]+$/;
+30 verbose stack             var resolved_ip = dnsResolve(host);
+30 verbose stack
+30 verbose stack             /* Don't send non-FQDN or private IP auths to us */
+30 verbose stack             if (isPlainHostName(host) || isInNet(resolved_ip, "192.0.2.0","255.255.255.0") || privateIP.test(resolved_ip))
+30 verbose stack             return "DIRECT";
+30 verbose stack
+30 verbose stack             /* FTP goes directly */
+30 verbose stack             if (url.substring(0,4) == "ftp:")
+30 verbose stack             return "DIRECT";
+30 verbose stack
+30 verbose stack             /* Updates are directly accessible */
+30 verbose stack             if (((localHostOrDomainIs(host, "trust.zscaler.com")) ||
+30 verbose stack                     (localHostOrDomainIs(host, "trust.zscaler.net")) ||
+30 verbose stack                     (localHostOrDomainIs(host, "trust.zscalerone.net")) ||
+30 verbose stack                     (localHostOrDomainIs(host, "trust.zscalertwo.net")) ||
+30 verbose stack                     (localHostOrDomainIs(host, "trust.zscloud.net")) ) &&
+30 verbose stack                 (url.substring(0,5) == "http:" || url.substring(0,6) == "https:"))
+30 verbose stack             return "DIRECT";
+30 verbose stack
+30 verbose stack             /* Default Traffic Forwarding. Forwarding to Zen on port 80, but you can use port 9400 also */
+30 verbose stack              return "PROXY 165.225.76.40:80; PROXY 185.46.214.32:80; DIRECT";
+30 verbose stack         }
+30 verbose stack     at Object.parse (native)
+30 verbose stack     at CachingRegistryClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:237:23)
+30 verbose stack     at Request._callback (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:210:14)
+30 verbose stack     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:187:22)
+30 verbose stack     at emitTwo (events.js:106:13)
+30 verbose stack     at Request.emit (events.js:191:7)
+30 verbose stack     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1048:10)
+30 verbose stack     at emitOne (events.js:96:13)
+30 verbose stack     at Request.emit (events.js:188:7)
+30 verbose stack     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:969:12)
+31 verbose cwd C:\Users\SESA454602\Desktop\availibility
+32 error Windows_NT 10.0.10586
+33 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "promise"
+34 error node v6.10.0
+35 error npm  v3.10.10
+36 error Unexpected token u in JSON at position 1
+36 error function FindProxyForURL(url, host) {
+36 error             var privateIP = /^(0|10|127|192\.168|172\.1[6789]|172\.2[0-9]|172\.3[01]|169\.254|192\.88\.99)\.[0-9.]+$/;
+36 error             var resolved_ip = dnsResolve(host);
+36 error
+36 error             /* Don't send non-FQDN or private IP auths to us */
+36 error             if (isPlainHostName(host) || isInNet(resolved_ip, "192.0.2.0","255.255.255.0") || privateIP.test(resolved_ip))
+36 error             return "DIRECT";
+36 error
+36 error             /* FTP goes directly */
+36 error             if (url.substring(0,4) == "ftp:")
+36 error             return "DIRECT";
+36 error
+36 error             /* Updates are directly accessible */
+36 error             if (((localHostOrDomainIs(host, "trust.zscaler.com")) ||
+36 error                     (localHostOrDomainIs(host, "trust.zscaler.net")) ||
+36 error                     (localHostOrDomainIs(host, "trust.zscalerone.net")) ||
+36 error                     (localHostOrDomainIs(host, "trust.zscalertwo.net")) ||
+36 error                     (localHostOrDomainIs(host, "trust.zscloud.net")) ) &&
+36 error                 (url.substring(0,5) == "http:" || url.substring(0,6) == "https:"))
+36 error             return "DIRECT";
+36 error
+36 error             /* Default Traffic Forwarding. Forwarding to Zen on port 80, but you can use port 9400 also */
+36 error              return "PROXY 165.225.76.40:80; PROXY 185.46.214.32:80; DIRECT";
+36 error         }
+37 error If you need help, you may report this error at:
+37 error     <https://github.com/npm/npm/issues>
+38 verbose exit [ 1, true ]
