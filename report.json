@@ -142,8 +142,7 @@
                         "id": "573120000004Gj7"
                     },
                     {
-                        "id": "573120000004GjC",
-                        "isAvailable": true
+                        "id": "573120000004GjC"
                     },
                     {
                         "id": "573120000004GjH"
@@ -224,21 +223,24 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Sm5"
+                        "id": "573120000008Sm5",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SmA",
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SmF"
+                        "id": "573120000008SmF",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SmK",
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SmP"
+                        "id": "573120000008SmP",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SmU",
@@ -367,20 +369,16 @@
                         "id": "573120000008Spd"
                     },
                     {
-                        "id": "573120000008Spi",
-                        "isAvailable": true
+                        "id": "573120000008Spi"
                     },
                     {
-                        "id": "573120000008Spn",
-                        "isAvailable": true
+                        "id": "573120000008Spn"
                     },
                     {
-                        "id": "573120000008Sps",
-                        "isAvailable": true
+                        "id": "573120000008Sps"
                     },
                     {
-                        "id": "573120000008Spx",
-                        "isAvailable": true
+                        "id": "573120000008Spx"
                     },
                     {
                         "id": "573120000008Sq2",
@@ -703,7 +701,8 @@
                         "id": "573120000008Sxr"
                     },
                     {
-                        "id": "573120000008Sxw"
+                        "id": "573120000008Sxw",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Sy1",
@@ -714,10 +713,12 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SyB"
+                        "id": "573120000008SyB",
+                        "isAvailable": true
                     },
                     {
-                        "id": "573120000008SyG"
+                        "id": "573120000008SyG",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SyL",
@@ -728,13 +729,15 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SyV"
+                        "id": "573120000008SyV",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Sya"
                     },
                     {
-                        "id": "573120000008Syf"
+                        "id": "573120000008Syf",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syk"
@@ -830,20 +833,17 @@
                         "id": "57312000000GpZN"
                     },
                     {
-                        "id": "57312000000GpZS",
-                        "isAvailable": true
+                        "id": "57312000000GpZS"
                     },
                     {
-                        "id": "57312000000GpZX",
-                        "isAvailable": true
+                        "id": "57312000000GpZX"
                     },
                     {
                         "id": "57312000000GpZc",
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000GpZh",
-                        "isAvailable": true
+                        "id": "57312000000GpZh"
                     },
                     {
                         "id": "57312000000GpZm"
