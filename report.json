@@ -143,7 +143,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000004Gis"
+                        "id": "573120000004Gis",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000004Gix",
@@ -1008,8 +1009,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpec",
-                        "isAvailable": true
+                        "id": "57312000000Gpec"
                     },
                     {
                         "id": "57312000000Gpeh",
