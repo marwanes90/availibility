@@ -786,10 +786,12 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000CbdG"
+                        "id": "57312000000CbdG",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000CbdL"
+                        "id": "57312000000CbdL",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000CbdQ"
@@ -1100,7 +1102,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000L2iV"
+                        "id": "57312000000L2iV",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000L2ia",
