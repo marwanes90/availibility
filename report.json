@@ -274,14 +274,16 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SnD"
+                        "id": "573120000008SnD",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SnN",
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SnS"
+                        "id": "573120000008SnS",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SnX",
@@ -388,7 +390,8 @@
                         "id": "573120000008Spx"
                     },
                     {
-                        "id": "573120000008Sq2"
+                        "id": "573120000008Sq2",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Sq7",
