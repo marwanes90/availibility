@@ -132,7 +132,8 @@
                         "id": "573120000004GiY"
                     },
                     {
-                        "id": "573120000004Gid"
+                        "id": "573120000004Gid",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000004Gii"
@@ -922,8 +923,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000GpcW",
-                        "isAvailable": true
+                        "id": "57312000000GpcW"
                     },
                     {
                         "id": "57312000000Gpcb"
