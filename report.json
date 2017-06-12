@@ -283,10 +283,12 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Sme"
+                        "id": "573120000008Sme",
+                        "isAvailable": true
                     },
                     {
-                        "id": "573120000008Smj"
+                        "id": "573120000008Smj",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Smo"
@@ -796,7 +798,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Syu"
+                        "id": "573120000008Syu",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syz"
