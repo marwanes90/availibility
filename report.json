@@ -1031,10 +1031,12 @@
                         "id": "57312000000Gpem"
                     },
                     {
-                        "id": "57312000000Gper"
+                        "id": "57312000000Gper",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpew"
+                        "id": "57312000000Gpew",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpf1",
