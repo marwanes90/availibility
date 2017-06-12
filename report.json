@@ -167,13 +167,16 @@
                         "id": "573120000004GjH"
                     },
                     {
-                        "id": "573120000004GjM"
+                        "id": "573120000004GjM",
+                        "isAvailable": true
                     },
                     {
-                        "id": "573120000004GjR"
+                        "id": "573120000004GjR",
+                        "isAvailable": true
                     },
                     {
-                        "id": "573120000004GjW"
+                        "id": "573120000004GjW",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000004Gjb"
@@ -940,7 +943,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpak"
+                        "id": "57312000000Gpak",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpbi",
