@@ -133,8 +133,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000004Gii",
-                        "isAvailable": true
+                        "id": "573120000004Gii"
                     },
                     {
                         "id": "573120000004Gin",
@@ -723,7 +722,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Syk"
+                        "id": "573120000008Syk",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syp"
