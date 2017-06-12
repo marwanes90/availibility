@@ -198,7 +198,8 @@
                         "id": "573120000008Skx"
                     },
                     {
-                        "id": "573120000008Sl2"
+                        "id": "573120000008Sl2",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Sl7"
@@ -1050,7 +1051,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000GpeX"
+                        "id": "57312000000GpeX",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpec"
