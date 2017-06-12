@@ -105,8 +105,7 @@
                         "id": "573120000004Ghz"
                     },
                     {
-                        "id": "573120000004Gi4",
-                        "isAvailable": true
+                        "id": "573120000004Gi4"
                     },
                     {
                         "id": "573120000004Gi9"
@@ -1254,7 +1253,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNea"
+                        "id": "57312000000TNea",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNef"
