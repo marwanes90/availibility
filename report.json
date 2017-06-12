@@ -92,7 +92,8 @@
                         "id": "573120000004Ghk"
                     },
                     {
-                        "id": "573120000004Ghu"
+                        "id": "573120000004Ghu",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000004Ghz"
@@ -227,8 +228,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SmA",
-                        "isAvailable": true
+                        "id": "573120000008SmA"
                     },
                     {
                         "id": "573120000008SmF",
