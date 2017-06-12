@@ -33,7 +33,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "5731200000005JT"
+                        "id": "5731200000005JT",
+                        "isAvailable": true
                     },
                     {
                         "id": "5731200000005JY",
@@ -183,8 +184,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Ski",
-                        "isAvailable": true
+                        "id": "573120000008Ski"
                     },
                     {
                         "id": "573120000008Skn",
@@ -776,7 +776,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Syp"
+                        "id": "573120000008Syp",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syu",
