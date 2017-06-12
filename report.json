@@ -210,7 +210,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Sl7"
+                        "id": "573120000008Sl7",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SlC",
@@ -1098,8 +1099,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000GpfB",
-                        "isAvailable": true
+                        "id": "57312000000GpfB"
                     },
                     {
                         "id": "57312000000GpfG"
