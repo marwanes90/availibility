@@ -775,7 +775,8 @@
                         "id": "573120000008Syk"
                     },
                     {
-                        "id": "573120000008Syp"
+                        "id": "573120000008Syp",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syu"
@@ -787,7 +788,8 @@
                         "id": "573120000008Sz4"
                     },
                     {
-                        "id": "573120000008Sz9"
+                        "id": "573120000008Sz9",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SzE"
@@ -944,7 +946,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000GpcH"
+                        "id": "57312000000GpcH",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000GpcM",
@@ -1043,7 +1046,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpec"
+                        "id": "57312000000Gpec",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpeh"
