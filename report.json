@@ -147,7 +147,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000004Gix"
+                        "id": "573120000004Gix",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000004Gj2",
@@ -931,7 +932,8 @@
                         "id": "57312000000Gpaa"
                     },
                     {
-                        "id": "57312000000Gpaf"
+                        "id": "57312000000Gpaf",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpak"
@@ -1027,20 +1029,24 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpdu"
+                        "id": "57312000000Gpdu",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpdy"
+                        "id": "57312000000Gpdy",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpe3",
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpe8"
+                        "id": "57312000000Gpe8",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000GpeD"
+                        "id": "57312000000GpeD",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000GpeI",
@@ -1063,10 +1069,12 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpeh"
+                        "id": "57312000000Gpeh",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpem"
+                        "id": "57312000000Gpem",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gper",
