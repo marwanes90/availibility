@@ -1119,7 +1119,8 @@
                         "id": "57312000000L2ik"
                     },
                     {
-                        "id": "57312000000L2ip"
+                        "id": "57312000000L2ip",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000L2iu",
@@ -1230,7 +1231,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNf4"
+                        "id": "57312000000TNf4",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNf9"
