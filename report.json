@@ -129,7 +129,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000004Gid"
+                        "id": "573120000004Gid",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000004Gii",
@@ -1102,10 +1103,12 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpfu"
+                        "id": "57312000000Gpfu",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpg4"
+                        "id": "57312000000Gpg4",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpg9"
