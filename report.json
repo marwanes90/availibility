@@ -381,7 +381,8 @@
                         "id": "573120000008SpO"
                     },
                     {
-                        "id": "573120000008SpT"
+                        "id": "573120000008SpT",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SpY"
@@ -1037,7 +1038,8 @@
                         "id": "57312000000Gpf6"
                     },
                     {
-                        "id": "57312000000GpfB"
+                        "id": "57312000000GpfB",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000GpfG"
@@ -1230,7 +1232,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNfd"
+                        "id": "57312000000TNfd",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNfi"
