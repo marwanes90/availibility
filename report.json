@@ -779,7 +779,8 @@
                         "id": "573120000008Syk"
                     },
                     {
-                        "id": "573120000008Syp"
+                        "id": "573120000008Syp",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syu"
@@ -1060,7 +1061,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpec"
+                        "id": "57312000000Gpec",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpeh",
