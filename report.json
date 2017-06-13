@@ -54,7 +54,8 @@
                         "id": "5731200000005K2"
                     },
                     {
-                        "id": "5731200000005K7"
+                        "id": "5731200000005K7",
+                        "isAvailable": true
                     },
                     {
                         "id": "5731200000005KC",
@@ -311,13 +312,16 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SoB"
+                        "id": "573120000008SoB",
+                        "isAvailable": true
                     },
                     {
-                        "id": "573120000008SoG"
+                        "id": "573120000008SoG",
+                        "isAvailable": true
                     },
                     {
-                        "id": "573120000008SoL"
+                        "id": "573120000008SoL",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SoQ"
