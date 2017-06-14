@@ -1126,7 +1126,8 @@
                         "id": "57312000000Gpgd"
                     },
                     {
-                        "id": "57312000000L2iQ"
+                        "id": "57312000000L2iQ",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000L2iV"
@@ -1253,8 +1254,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNf4",
-                        "isAvailable": true
+                        "id": "57312000000TNf4"
                     },
                     {
                         "id": "57312000000TNf9"
