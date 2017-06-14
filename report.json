@@ -217,7 +217,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SlC"
+                        "id": "573120000008SlC",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SlH",
@@ -952,8 +953,7 @@
                         "id": "57312000000Gpbx"
                     },
                     {
-                        "id": "57312000000Gpc2",
-                        "isAvailable": true
+                        "id": "57312000000Gpc2"
                     },
                     {
                         "id": "57312000000Gpc7",
@@ -1237,8 +1237,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNe6",
-                        "isAvailable": true
+                        "id": "57312000000TNe6"
                     },
                     {
                         "id": "57312000000TNeB",
