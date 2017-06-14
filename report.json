@@ -359,7 +359,8 @@
                         "id": "573120000008SpO"
                     },
                     {
-                        "id": "573120000008SpT"
+                        "id": "573120000008SpT",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SpY"
@@ -929,12 +930,10 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpcb",
-                        "isAvailable": true
+                        "id": "57312000000Gpcb"
                     },
                     {
-                        "id": "57312000000Gpcg",
-                        "isAvailable": true
+                        "id": "57312000000Gpcg"
                     },
                     {
                         "id": "57312000000Gpcl"
@@ -1033,7 +1032,8 @@
                         "id": "57312000000Gpf6"
                     },
                     {
-                        "id": "57312000000GpfB"
+                        "id": "57312000000GpfB",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000GpfG"
