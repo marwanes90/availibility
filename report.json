@@ -36,7 +36,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "5731200000005JT"
+                        "id": "5731200000005JT",
+                        "isAvailable": true
                     },
                     {
                         "id": "5731200000005JY",
@@ -226,14 +227,16 @@
                         "id": "573120000008SlM"
                     },
                     {
-                        "id": "573120000008SlR"
+                        "id": "573120000008SlR",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SlW",
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Slb"
+                        "id": "573120000008Slb",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Slg",
@@ -761,7 +764,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Syp"
+                        "id": "573120000008Syp",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syu",
