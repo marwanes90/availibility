@@ -20,10 +20,12 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "5731200000005J9"
+                        "id": "5731200000005J9",
+                        "isAvailable": true
                     },
                     {
-                        "id": "5731200000005JE"
+                        "id": "5731200000005JE",
+                        "isAvailable": true
                     },
                     {
                         "id": "5731200000005JJ",
@@ -1192,7 +1194,8 @@
                         "id": "57312000000TNe6"
                     },
                     {
-                        "id": "57312000000TNeB"
+                        "id": "57312000000TNeB",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNeG"
