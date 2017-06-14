@@ -761,7 +761,8 @@
                         "id": "573120000008Syp"
                     },
                     {
-                        "id": "573120000008Syu"
+                        "id": "573120000008Syu",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syz"
@@ -786,7 +787,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SzT"
+                        "id": "573120000008SzT",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Szd",
