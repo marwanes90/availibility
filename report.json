@@ -1025,13 +1025,16 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpdu"
+                        "id": "57312000000Gpdu",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpdy"
+                        "id": "57312000000Gpdy",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpe3"
+                        "id": "57312000000Gpe3",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpe8"
@@ -1055,10 +1058,12 @@
                         "id": "57312000000Gpec"
                     },
                     {
-                        "id": "57312000000Gpeh"
+                        "id": "57312000000Gpeh",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpem"
+                        "id": "57312000000Gpem",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gper",
