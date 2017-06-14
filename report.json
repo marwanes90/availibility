@@ -466,7 +466,8 @@
                         "id": "573120000008SrP"
                     },
                     {
-                        "id": "573120000008SrU"
+                        "id": "573120000008SrU",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SrZ",
@@ -957,7 +958,8 @@
                         "id": "57312000000Gpc7"
                     },
                     {
-                        "id": "57312000000GpcH"
+                        "id": "57312000000GpcH",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000GpcM"
@@ -1264,7 +1266,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNez"
+                        "id": "57312000000TNez",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNf4",
