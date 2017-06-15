@@ -103,8 +103,7 @@
                         "id": "573120000004Ghz"
                     },
                     {
-                        "id": "573120000004Gi4",
-                        "isAvailable": true
+                        "id": "573120000004Gi4"
                     },
                     {
                         "id": "573120000004Gi9"
@@ -293,7 +292,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SnD"
+                        "id": "573120000008SnD",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SnN",
@@ -420,7 +420,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SqH"
+                        "id": "573120000008SqH",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SqM"
