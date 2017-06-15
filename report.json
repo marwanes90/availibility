@@ -514,13 +514,15 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008StL"
+                        "id": "573120000008StL",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008StQ"
                     },
                     {
-                        "id": "573120000008StV"
+                        "id": "573120000008StV",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Stf"
@@ -571,7 +573,8 @@
                         "id": "573120000008Sus"
                     },
                     {
-                        "id": "573120000008Sux"
+                        "id": "573120000008Sux",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Sv2",
@@ -604,7 +607,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Svg"
+                        "id": "573120000008Svg",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Svl",
@@ -637,7 +641,8 @@
                         "id": "573120000008SwK"
                     },
                     {
-                        "id": "573120000008SwP"
+                        "id": "573120000008SwP",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SwU",
@@ -947,10 +952,12 @@
                         "id": "57312000000GpdU"
                     },
                     {
-                        "id": "57312000000GpdZ"
+                        "id": "57312000000GpdZ",
+                        "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpde"
+                        "id": "57312000000Gpde",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000Gpdj"
