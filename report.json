@@ -4,7 +4,8 @@
             "message": {
                 "results": [
                     {
-                        "id": "5731200000005If"
+                        "id": "5731200000005If",
+                        "isAvailable": true
                     },
                     {
                         "id": "5731200000005Ik",
