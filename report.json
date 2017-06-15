@@ -676,7 +676,8 @@
                         "id": "573120000008Swo"
                     },
                     {
-                        "id": "573120000008Swt"
+                        "id": "573120000008Swt",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Swy",
@@ -806,8 +807,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Cbe4",
-                        "isAvailable": true
+                        "id": "57312000000Cbe4"
                     },
                     {
                         "id": "57312000000Cbe9",
