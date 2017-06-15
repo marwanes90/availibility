@@ -34,7 +34,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "5731200000005JT"
+                        "id": "5731200000005JT",
+                        "isAvailable": true
                     },
                     {
                         "id": "5731200000005JY"
@@ -495,19 +496,22 @@
                         "id": "573120000008SsD"
                     },
                     {
-                        "id": "573120000008SsI"
+                        "id": "573120000008SsI",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SsN"
                     },
                     {
-                        "id": "573120000008SsS"
+                        "id": "573120000008SsS",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SsX"
                     },
                     {
-                        "id": "573120000008Ssc"
+                        "id": "573120000008Ssc",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Ssh"
@@ -781,7 +785,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008Syp"
+                        "id": "573120000008Syp",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008Syu"
