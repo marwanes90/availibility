@@ -519,7 +519,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008StQ"
+                        "id": "573120000008StQ",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008StV",
@@ -644,7 +645,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "573120000008SwK"
+                        "id": "573120000008SwK",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SwP",
@@ -931,8 +933,7 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000Gpcg",
-                        "isAvailable": true
+                        "id": "57312000000Gpcg"
                     },
                     {
                         "id": "57312000000Gpcl",
